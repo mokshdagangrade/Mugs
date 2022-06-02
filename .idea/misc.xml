@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AndroidStudioProjects/Mugs/app/src/main/res/layout/activity_login.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidStudioProjects/Mugs/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
         <entry key="..\:/AndroidStudioProjects/Mugs/app/src/main/res/layout/activity_register.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidStudioProjects/Mugs/app/src/main/res/layout/fragment_chart.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidStudioProjects/Mugs/app/src/main/res/menu/bottom_nav_menu.xml" value="0.17552083333333332" />
       </map>
     </option>
   </component>

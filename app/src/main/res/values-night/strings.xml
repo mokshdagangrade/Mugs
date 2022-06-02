@@ -1,10 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Mugs</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="confirm_password">Confirm Password</string>
     <string name="signed">Sign Up</string>
     <string name="already_have_an_account_login">Already have an account?</string>
-    <string name="don_t_have_an_account_sign_in">Don\'t have an account. Sign up</string>
+    <string name="don_t_have_an_account_sign_in">Don\'t have an account, sign up</string>
     <string name="login">Login</string>
 </resources>

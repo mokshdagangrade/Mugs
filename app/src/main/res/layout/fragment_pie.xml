@@ -5,10 +5,12 @@
     android:layout_height="match_parent"
     tools:context=".PieFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+    <com.github.mikephil.charting.charts.PieChart
+        android:id="@+id/pieChart"
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:layout_margin="32dp"
+        android:layout_gravity="center"
+        />
 
 </FrameLayout>

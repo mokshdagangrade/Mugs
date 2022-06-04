@@ -1,6 +1,6 @@
 package com.example.mugs
 
 data class Score(
-    val name:String,
+    val day:Int,
     val score: Int,
 )
